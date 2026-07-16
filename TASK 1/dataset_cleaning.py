@@ -4,8 +4,8 @@ E-Commerce Order Data Cleaning Pipeline
 This script loads raw order data, handles missing values, 
 removes duplicates, and validates business logic (pricing math).
 
-Author: [Eman Iqbal]
-
+Author: Eman Iqbal
+"""
 
 import pandas as pd
 import numpy as np
