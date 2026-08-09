@@ -1,1 +1,0 @@
-DBMS_Project_Presentation.pptx
